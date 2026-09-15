@@ -1,10 +1,10 @@
 # vrkshop
 <p align="center">
   <a href="https://github.com/butyrinrv2/vrkshop/releases/tag/MainGame">
-    <img src="https://img.shields.io/badge/🇷🇺_Скачать_VRKShop_1.1.2_Demo-2ea44f?style=for-the-badge" alt="Скачать VRKShop 1.1.2 Demo">
+    <img src="https://img.shields.io/badge/🇷🇺_Скачать_VRKShop_1.1.2-2ea44f?style=for-the-badge" alt="Скачать VRKShop 1.1.2">
   </a>
   <a href="https://github.com/butyrinrv2/vrkshop/releases/tag/MainGame">
-    <img src="https://img.shields.io/badge/🇬🇧_Download_VRKShop_1.1.2_Demo-0078D4?style=for-the-badge" alt="Download VRKShop 1.1.2 Demo">
+    <img src="https://img.shields.io/badge/🇬🇧_Download_VRKShop_1.1.2-0078D4?style=for-the-badge" alt="Download VRKShop 1.1.2">
   </a>
 </p>
 Free version of VRKSHOP. Because its hard to find by green steam!
